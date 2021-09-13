@@ -8,7 +8,7 @@ body {
 }
 
 .flex {
-    background: greenyellow;
+    background: white;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
